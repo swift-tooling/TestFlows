@@ -24,7 +24,7 @@ let package = Package(
         // .package(url: "https://github.com/leviouwendijk/Selection.git", branch: "master"),
         // .package(url: "https://github.com/leviouwendijk/Concatenation.git", branch: "master"),
         // .package(url: "https://github.com/leviouwendijk/Interfaces.git", branch: "master"),
-        // .package(url: "https://github.com/leviouwendijk/Tokens.git", branch: "master"),
+        // .package(url: "https://github.com/swift-langs/Tokens.git", branch: "master"),
         // .package(url: "https://github.com/leviouwendijk/Matching.git", branch: "master"),
         // .package(url: "https://github.com/leviouwendijk/Ranking.git", branch: "master"),
         // .package(url: "https://github.com/leviouwendijk/Fuzzy.git", branch: "master"),
