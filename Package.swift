@@ -15,7 +15,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/leviouwendijk/Testing.git", branch: "master"),
+        .package(url: "https://github.com/swift-tooling/Testing.git", branch: "master"),
         .package(url: "https://github.com/leviouwendijk/Primitives.git", branch: "master"),
         // .package(url: "https://github.com/leviouwendijk/Writers.git", branch: "master"),
         // .package(url: "https://github.com/leviouwendijk/Readers.git", branch: "master"),
@@ -35,7 +35,7 @@ let package = Package(
         .package(url: "https://github.com/leviouwendijk/ANSI.git", branch: "master"),
         .package(url: "https://github.com/leviouwendijk/Terminal.git", branch: "master"),
 
-        // .package(url: "https://github.com/leviouwendijk/Executable.git", branch: "master"),
+        // .package(url: "https://github.com/swift-tooling/Executable.git", branch: "master"),
     ],
     targets: [
         .target(
